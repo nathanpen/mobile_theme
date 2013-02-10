@@ -1,0 +1,6 @@
+@font-face {
+    font-family: "Existence Light";
+    src: url(../fonts/Existence-Light.ttf) format("truetype");
+}
+
+.home_heading {text-align: center; font-size: 32px; font-family: 'Existence Light';}
